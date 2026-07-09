@@ -1,0 +1,8 @@
+{
+  "name": "Dr Pepper Premium Experience",
+  "description": "An immersive, interactive, and conversion-focused marketing website for Dr Pepper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
